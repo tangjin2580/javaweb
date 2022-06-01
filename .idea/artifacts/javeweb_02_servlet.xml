@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="javeweb-02-servlet">
+    <output-path>$PROJECT_DIR$/out/artifacts/javeweb_02_servlet</output-path>
+    <root id="archive" name="javeweb-02-servlet.war">
+      <element id="javaee-facet-resources" facet="javeweb-02-servlet/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="javeweb-02-servlet" />
+          <element id="module-output" name="servlet-01" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
