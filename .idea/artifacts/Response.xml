@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Response">
+    <output-path>$PROJECT_DIR$/out/artifacts/Response</output-path>
+    <root id="archive" name="Response.war">
+      <element id="javaee-facet-resources" facet="Response/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Response" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

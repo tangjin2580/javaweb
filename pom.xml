@@ -9,8 +9,10 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>servlet-01</module>
         <module>my12306</module>
+        <module>servlet-01</module>
+        <module>servlet-02</module>
+        <module>Response</module>
     </modules>
 
     <properties>
