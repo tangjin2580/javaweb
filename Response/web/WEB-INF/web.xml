@@ -11,4 +11,13 @@
         <servlet-name>down</servlet-name>
         <url-pattern>/down</url-pattern>
     </servlet-mapping>
+
+    <servlet>
+        <servlet-name>img</servlet-name>
+        <servlet-class>org.example.ImageServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>img</servlet-name>
+        <url-pattern>/img</url-pattern>
+    </servlet-mapping>
 </web-app>
